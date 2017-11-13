@@ -1,0 +1,13 @@
+leche,8000.0
+atun,65.0
+yuca,500.0
+papa,22000.0
+Salsa Tomate,2500.0
+chocolate,8000.0
+Aguacate,400.0
+Pasta,4500.0
+Agua,1000.0
+tomaco,5800.0
+unproti,8888.0
+condensada,500.0
+PruebaFinal,500.0
